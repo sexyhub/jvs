@@ -9,3 +9,4 @@ jQuery('.content1').hide();
 jQuery('.content2').show();
 return false;
 });
+});
