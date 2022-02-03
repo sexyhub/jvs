@@ -5,7 +5,7 @@
     var adConfig = {
     "ads_host": "a.realsrv.com",
     "syndication_host": "syndication.realsrv.com",
-    "idzone": 4569842,
+    "idzone": 4580824,
     "popup_fallback": false,
     "popup_force": false,
     "chrome_enabled": true,
